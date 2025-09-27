@@ -1,0 +1,6 @@
+1) This project is aimed to create a dashboard for the sales data.
+2) The data in there as excel file named vg_sales.csv
+3) Using psql and pgadmin we are going to create a database.
+4) Using the DBT we are going to ingesting the data inside the created database. 
+5) Using superset we are going to visulize the dataset. 
+6) Going to use the two different branches of git for ensure the final build is clean. 
